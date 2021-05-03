@@ -14,5 +14,5 @@
 - ⚡ Fun fact: I love to Play Volleyball.
 
 ### Connect with me
-[<img src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1620045624~hmac=624b27921eaf43b96877662e8da290a8" alt="github_logo" height="50px" width="50px" style="background-color:grey;" />](https://github.com/sajalgupta19)
+[<img src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1620045624~hmac=624b27921eaf43b96877662e8da290a8" alt="github_logo" height="50px" width="50px" style="background-color:red;" />](https://github.com/sajalgupta19)
 
