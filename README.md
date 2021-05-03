@@ -14,5 +14,6 @@
 - ⚡ Fun fact: I love to Play Volleyball.
 
 ### Connect with me
-[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/git.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" />](https://github.com/sajalgupta19)
-
+[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/git.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://github.com/sajalgupta19)
+[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/a.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://code4xu.blogspot.com)
+[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/git.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://github.com/sajalgupta19)
