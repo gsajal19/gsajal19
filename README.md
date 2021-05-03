@@ -1,7 +1,8 @@
-
-![Hii, I am Sajal](https://sajalgupta19.github.io/sajalgupta19/icon/h.jpg)
-<br>
 ### Hi there 👋
+<br>
+![Hii, I am Sajal](https://sajalgupta19.github.io/sajalgupta19/icon/h.jpg)
+
+
 
 ### I'm a Student
 - 🔭 I’m currently working on a Website [Code4xU](http://code4xu.blogspot.com)!
