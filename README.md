@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ![Hii, I am Sajal](https://sajalgupta19.github.io/sajalgupta19/icon/h.jpg)
 
