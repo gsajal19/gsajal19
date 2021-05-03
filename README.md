@@ -1,16 +1,22 @@
+![Hii, I am Sajal ](https://sajalgupta19.github.io/sajalgupta19/icons/h.jpg)
 ### Hi there 👋
 
-<!--
-**sajalgupta19/sajalgupta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### I'm a Student
+- 🔭 I’m currently working on a Website [Code4xU](http://code4xu.blogspot.com)!
+- 🌱 I’m currently learning javascript.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 To Contact me: <a href="mailto:contact.code4xu@gmail.com">contact</a>
+- 😄 I like to work on New Projects.
+- ⚡ Fun fact: I love to Play Volleyball.
+
+
+
+## Hii there, I am Sajal
+
+### I'm a Student!
+ - I'm currently working on a Website [Code4xU](http://code4xu.blogspot.com)!
+ - I'm currently learning javascript.
+ - 
+
+
