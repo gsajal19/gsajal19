@@ -1,4 +1,5 @@
-![Hii, I am Sajal ](https://sajalgupta19.github.io/sajalgupta19/icons/h.jpg)
+
+![Hii, I am Sajal](https://sajalgupta19.github.io/sajalgupta19/icons/h.jpg)
 <br>
 ### Hi there 👋
 
