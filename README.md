@@ -15,6 +15,15 @@
 
 ### Connect with me
 [<img src="https://sajalgupta19.github.io/sajalgupta19/icon/git.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://github.com/sajalgupta19)
-[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/aa.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" style="border-radius:20px;"/>](https://code4xu.blogspot.com)
-[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/fa.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://www.facebook.com/)
-[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/i.png" alt="github_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://www.instagram.com/accounts/login/)
+[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/aa.png" alt="code4xu_logo" height="50px" width="50px" style="background-color:red;" align="left" style="border-radius:20px;"/>](https://code4xu.blogspot.com)
+[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/fa.png" alt="fb_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://www.facebook.com/)
+[<img src="https://sajalgupta19.github.io/sajalgupta19/icon/i.png" alt="inta_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://www.instagram.com/accounts/login/)
+
+### Languages and Tools
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/html/html.png" />]
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="visual stdio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />]
