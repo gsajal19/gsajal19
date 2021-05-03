@@ -24,7 +24,7 @@
 ### Languages and Tools
 <br>
 
-<img align="left" alt="visual stdio" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="visual stdio" width="40px" src="https://sajalgupta19.github.io/sajalgupta19/icon/vs.png" />
 <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/html/html.png" />
 <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/css/css.png" />
 <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/javascript/javascript.png" />
