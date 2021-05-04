@@ -21,7 +21,7 @@
 [<img src="https://sajalgupta19.github.io/sajalgupta19/icon/i.png" alt="inta_logo" height="50px" width="50px" style="background-color:red;" align="left" />](https://www.instagram.com/accounts/login/)
 <br><br><br>
 ### Languages and Tools
-<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/css/css.png" />
+<img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/html/html.png" />
 <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/css/css.png" />
 <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/javascript/javascript.png" />
 <img align="left" alt="react" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/react/react.png" />
