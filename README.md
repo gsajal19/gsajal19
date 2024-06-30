@@ -29,4 +29,3 @@
 <img align="left" alt=python" width="50px" src="https://gsajal19.github.io/gsajal19/icon/py.png" />
 <img align="left" alt="java" width="50px" src="https://gsajal19.github.io/gsajal19/icon/ja.png" />
 <img align="left" alt="c++" width="50px" src="https://gsajal19.github.io/gsajal19/icon/c.png" />
-<img align="left" alt="django" width="40px" src="https://gsajal19.github.io/gsajal19/icon/dj.png" />
