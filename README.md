@@ -24,8 +24,6 @@
 <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/html/html.png" />
 <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/css/css.png" />
 <img align="left" alt="javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/javascript/javascript.png" />
-<img align="left" alt="react" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/react/react.png" />
-<img align="left" alt="node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/nodejs/nodejs.png" />
 <img align="left" alt="sql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/sql/sql.png" />
 <img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494/topics/mysql/mysql.png" />
 <img align="left" alt=python" width="50px" src="https://gsajal19.github.io/gsajal19/icon/py.png" />
